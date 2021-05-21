@@ -55,7 +55,9 @@ After that `create a file` in the glogabl directory with the name `.eslintrc.jso
   }
 ```
 
-### I learned how to select DOM elements using `Queries` [ https://testing-library.com/docs/queries/about#priority ]   
+### I learned how to select DOM elements using `Queries` 
+
+[ https://testing-library.com/docs/queries/about#priority ]   
  
 * getByRole ( prefered by Testing Library )
 * getByLabelText
@@ -66,7 +68,9 @@ After that `create a file` in the glogabl directory with the name `.eslintrc.jso
 * getByTitle
 * getByTestId ( not prefered )
 
-### I learned  how to expect one result using Jest-Dom `Matchers` [ https://github.com/testing-library/jest-dom ]
+### I learned  how to expect one result using Jest-Dom `Matchers` 
+
+[ https://github.com/testing-library/jest-dom ]
 
 * toBeDisabled
 * toBeEnabled
@@ -91,5 +95,7 @@ After that `create a file` in the glogabl directory with the name `.eslintrc.jso
 * toBePartiallyChecked
 * toHaveDescription
 
-### I learned how to Simulate an event using `userEvent's` [ https://testing-library.com/docs/ecosystem-user-event ]
+### I learned how to Simulate an event using `userEvent's` 
+
+[ https://testing-library.com/docs/ecosystem-user-event ]
 
